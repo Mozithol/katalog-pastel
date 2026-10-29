@@ -14,6 +14,13 @@ Aplikasi katalog produk berbasis mobile Android yang dikembangkan menggunakan fr
 
 ---
 
+## Video Demonstrasi
+
+Tonton video demonstrasi pengujian aplikasi pada perangkat Android fisik melalui link berikut:
+- **YouTube**: [https://www.youtube.com/watch?v=LINK_VIDEO_KAMU](https://www.youtube.com/watch?v=LINK_VIDEO_KAMU)
+
+---
+
 ## Tech Stack
 
 - **Framework**: Flutter
