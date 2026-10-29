@@ -17,7 +17,7 @@ Aplikasi katalog produk berbasis mobile Android yang dikembangkan menggunakan fr
 ## Video Demonstrasi
 
 Tonton video demonstrasi pengujian aplikasi pada perangkat Android fisik melalui link berikut:
-- **YouTube**: [https://www.youtube.com/watch?v=LINK_VIDEO_KAMU](https://youtu.be/EiobSG7oXLs)
+- **YouTube**: [https://youtu.be/EiobSG7oXLs](https://www.youtube.com/watch?v=LINK_VIDEO_KAMU)
 
 ---
 
@@ -46,7 +46,7 @@ Sebelum menjalankan proyek ini, pastikan sistem telah terpasang:
 
 1. **Clone Repositori**
    ```bash
-   git clone https://github.com/Mozithol/katalog-pastel
+   git clone [https://github.com/USERNAME/REPO-NAME.git](https://github.com/USERNAME/REPO-NAME.git)
    cd katalog_pastel
    ```
 
