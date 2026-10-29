@@ -46,7 +46,7 @@ Sebelum menjalankan proyek ini, pastikan sistem telah terpasang:
 
 1. **Clone Repositori**
    ```bash
-   git clone [https://github.com/USERNAME/REPO-NAME.git](https://github.com/USERNAME/REPO-NAME.git)
+   git clone https://github.com/Mozithol/katalog-pastel
    cd katalog_pastel
    ```
 
